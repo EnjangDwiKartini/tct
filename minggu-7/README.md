@@ -9,9 +9,13 @@ Python adalah bahasa pemrograman tinggi yang dapat melakukan eksekusi sejumlah i
 Target yang akan diselesaikan pada praktikum ini adalah menampilkan data dari database dalam bentuk json. 
 Untuk menyelesaikan tugas ini saya menggunakan :
 - Framework	: **Flask** 
+	***
 	Flask adalah kerangka kerja aplikasi web mikro yang ditulis dalam bahasa pemrograman Python dan berdasarkan Werkzeug toolkit dan template engine Jinja2. Berlisensi BSD. (Wikipedia)
-- Database : MySQL
+	***
+- Database : **MySQL**
+	***
 	MySQL adalah sebuah perangkat lunak sistem manajemen basis data SQL (bahasa Inggris: database management system) atau DBMS yang multialur, multipengguna, dengan sekitar 6 juta instalasi di seluruh dunia. (Wikipedia)
+	***
 
 ## Tutorial 
 * Install miniconda 
